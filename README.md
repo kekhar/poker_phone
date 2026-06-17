@@ -43,7 +43,7 @@
 ### 2. Склонировать через Git
 
 ```bash
-git clone <URL_ВАШЕГО_РЕПОЗИТОРИЯ>
+git clone https://github.com/kekhar/poker_phone.git
 cd poker_phone
 ```
 
