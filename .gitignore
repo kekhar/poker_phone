@@ -1,0 +1,69 @@
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+.history/
+.atom/
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Dart / Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+.pub-cache/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+
+# Build outputs
+build/
+coverage/
+.build/
+.buildlog/
+
+# Platform-specific generated files
+android/local.properties
+android/key.properties
+android/.gradle/
+android/captures/
+android/.cxx/
+android/app/debug/
+android/app/profile/
+android/app/release/
+**/*.keystore
+**/*.jks
+
+ios/Flutter/ephemeral/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/.last_build_id
+ios/.symlinks/
+ios/Pods/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/xcuserdata/
+**/DerivedData/
+
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/xcuserdata/
+
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# Logs / caches
+*.log
+*.class
+*.pyc
+
+# Symbolication / obfuscation
+app.*.symbols
+app.*.map.json
